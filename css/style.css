@@ -6,6 +6,10 @@ body{
     background-color: #d3d3d3;
 }
 
-.banner-column{
+/* .banner-column{
     background-color: #808080;
+} */
+
+.navbar-container{
+    background-color: rgb(13, 13, 15);
 }
