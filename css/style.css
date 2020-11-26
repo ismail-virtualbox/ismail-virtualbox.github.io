@@ -3,5 +3,8 @@ body{
 }
 
 .banner-container{
+    background-color: lightgrey;
+}
+.banner-column{
     background-color: grey;
 }
