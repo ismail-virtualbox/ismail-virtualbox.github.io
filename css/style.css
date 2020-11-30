@@ -12,8 +12,6 @@ body{
 
 .navbar-container{
     background-color: #111120;
-    position: sticky;
-    top:0;
 } 
 
 .education-container{
@@ -41,4 +39,8 @@ body{
 
 .project-container .card{
     background-color: #267f95;
+}
+
+.portfolio-container{
+    background-color: #edf2fb;
 }
