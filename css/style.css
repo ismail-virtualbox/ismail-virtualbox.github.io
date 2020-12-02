@@ -15,7 +15,7 @@ body{
 } 
 
 .education-container{
-    background-color:  #f1e7e7;
+    background-color:  #fbeeed;
 }
 
 .text-color-redtype{
@@ -24,6 +24,9 @@ body{
 
 .bg-color-redtype{
     background-color: #fa8072;
+}
+.bg-color-redtype:hover{
+    color: white!important;
 }
 
 .circle{
@@ -43,4 +46,12 @@ body{
 
 .portfolio-container{
     background-color: #edf2fb;
+}
+
+.contact-container{
+    background-color: #484e52;
+}
+
+.field-background{
+    background-color: #525d62
 }
