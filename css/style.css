@@ -55,3 +55,22 @@ body{
 .field-background{
     background-color: #525d62
 }
+
+.footer{
+    background-color: #267f95;
+}
+
+.circle-logo{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: white;
+    display: inline-block;
+    text-align: center;
+    color: #267f95;
+    font-size: 45px;
+}
+.circle-logo:hover{
+    background-color: #484e52;
+
+}
